@@ -9,7 +9,7 @@ Hello! Welcome to the EE workshop. Have you ever wondered how your phone charger
 
 If you wish to build the 5V DC power supply circuit alongside this workshop, you have to download the circuit simulation program we will be using today, called [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html), and a .zip copy of this repository. Alternatively, if you are familiar with git/GitHub, you can also just clone the repository onto your local machine. To download the contents for this workshop, you can click the green "code" button on the webpage for this repository, and then select your desired download option. 
 
-Once you have downloaded this folder/cloned this repository onto your local computer, you can open up the file called Phone_power_supply.asc. If you wish, you can open up the [PowerPoint presentation] (https://docs.google.com/presentation/d/1kEScn2-nlar9Xf49wl8lOPzi7uB9BSve4uhovnD_iwc/edit?usp=sharing) for this workshop to follow along as well. 
+Once you have downloaded this folder/cloned this repository onto your local computer, you can open up the file called Phone_power_supply.asc. If you wish, you can open up the [PowerPoint presentation](https://docs.google.com/presentation/d/1kEScn2-nlar9Xf49wl8lOPzi7uB9BSve4uhovnD_iwc/edit?usp=sharing) for this workshop to follow along as well. 
 
 Now you are ready to follow along with the workshop. Enjoy! 
 
