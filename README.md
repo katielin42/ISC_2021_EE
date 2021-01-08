@@ -14,7 +14,7 @@ Once you have downloaded this folder/cloned this repository onto your local comp
 Now you are ready to follow along with the workshop. Enjoy! 
 
 
-## Legal Blubber
+## Legal Blabber
 
 * This workshop is licensed under the GNU AGPLv3 License - see [LICENSE.md](https://github.com/katielin42/ISC_2021_EE/blob/main/LICENSE) file for details.
 * This workshop is inspired by University of Alberta ECE 302 Lab 1 - Fall 2020 Edition, and modified by University of Alberta's Electrical Engineering Club to pertain to ISC 2021. 
