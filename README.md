@@ -5,7 +5,7 @@
 
 ## ISC 2021 Electrical Engineering Workshop
 
-Hello! Welcome to the EE workshop. Have you ever wondered how your phone charger is able to convert the really high voltage (~120V AC) from your wall outlet into a voltage that is usable to charge your phone (~5V DC)? Even you haven't, that's totally fine, because you will learn the underlying principles behind it and how to build a version of the 5V DC power supply circuit in this workshop. 
+Hello! Welcome to the EE workshop. Have you ever wondered how your phone charger is able to convert a really high voltage (~120V AC) from your wall outlet into a voltage that is usable to charge your phone (~5V DC)? Even you haven't, that's totally fine, because you will learn the underlying principles behind it and how to build a version of the 5V DC power supply circuit in this workshop. 
 
 If you wish to build the 5V DC power supply circuit alongside this workshop, you can download the circuit simulation program we will be using today, called [LTSpice](https://www.analog.com/en/design-center/design-tools-and-calculators/ltspice-simulator.html), and a .zip copy of this repository. Alternatively, if you are familiar with git/GitHub, you can also just clone the repository onto your local machine. To download the contents for this workshop, you can click the green "code" button on the webpage for this repository, and then select your desired download option. 
 
